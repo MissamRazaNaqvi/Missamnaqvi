@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Missamnaqvi/static/css/main.5c1b3925.css",
+    "main.js": "/Missamnaqvi/static/js/main.5e36522d.js",
+    "static/media/newsapp.png": "/Missamnaqvi/static/media/newsapp.fe195165f2ab45829c04.png",
+    "static/media/reactWeather.jpg": "/Missamnaqvi/static/media/reactWeather.a1988356c4f5a620716e.jpg",
+    "static/media/reactSmooth.jpg": "/Missamnaqvi/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
+    "static/media/installNode.jpg": "/Missamnaqvi/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
+    "static/media/textutil.png": "/Missamnaqvi/static/media/textutil.6a5075375c10cebc0e84.png",
+    "static/media/todo.png": "/Missamnaqvi/static/media/todo.33e1797ed37422758cb3.png",
+    "static/media/react.png": "/Missamnaqvi/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/img2.jpg": "/Missamnaqvi/static/media/img2.3bf3eba7f94d240da563.jpg",
+    "static/media/github.png": "/Missamnaqvi/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/git1.png": "/Missamnaqvi/static/media/git1.f5cb9039c4ee4b956c1c.png",
+    "static/media/html.png": "/Missamnaqvi/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Missamnaqvi/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Missamnaqvi/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Missamnaqvi/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Missamnaqvi/index.html",
+    "main.5c1b3925.css.map": "/Missamnaqvi/static/css/main.5c1b3925.css.map",
+    "main.5e36522d.js.map": "/Missamnaqvi/static/js/main.5e36522d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1b3925.css",
+    "static/js/main.5e36522d.js"
+  ]
+}
