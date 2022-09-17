@@ -1,6 +1,6 @@
 import img2 from '../assets/img2.jpg';
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import { Link } from "react-scroll";
+import { Link} from "react-scroll";
 
 const Home = () => {
   return (
@@ -14,9 +14,9 @@ const Home = () => {
             I'm a Full WEb Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis 
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
+            deserunt illum mollitia officiis qui exercitationem perferendis neque
+            quasi a recusandae necessitatibus tempora iusto! Blanditiis
           </p>
 
           <div>
